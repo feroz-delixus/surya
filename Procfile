@@ -1,1 +1,1 @@
-worker: python suryarestcall.py
+web: python suryarestcall.py
