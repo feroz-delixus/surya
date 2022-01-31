@@ -2,8 +2,8 @@ graphviz
 python-jenkins
 Flask==2.0.2
 Flask-Cors==3.0.10
-bash
+#bash
 #curl
-openssh==7.6
-ip
+#openssh==7.6
+#ip
 
